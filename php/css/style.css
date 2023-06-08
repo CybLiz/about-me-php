@@ -1,5 +1,4 @@
-
-*{
+* {
 	margin: 0;
 	padding: 0;
 	box-sizing: border-box;
@@ -15,8 +14,8 @@ header {
 	justify-content: center;
 	align-items: center;
 	margin: auto;
-	
-	
+
+
 }
 
 .job {
@@ -24,6 +23,7 @@ header {
 	display: flex;
 	justify-content: center;
 }
+
 header p {
 	font-size: large;
 }
@@ -34,13 +34,14 @@ nav {
 	margin: auto;
 	font-size: larger;
 	margin-top: 10px;
-    display: flex;
+	display: flex;
 	justify-content: center;
 
 }
-a{
-text-decoration: none;
-color: black;
+
+a {
+	text-decoration: none;
+	color: black;
 }
 
 nav ul {
@@ -59,8 +60,9 @@ nav li {
 	/* border-style: thick bold; */
 
 }
+
 nav li:hover {
-	background-color: #FFF7D4 ;
+	background-color: #FFF7D4;
 }
 
 
@@ -76,21 +78,25 @@ nav li:hover {
 
 
 }
+
 h1 {
 	font-size: large !important;
 	padding-top: 30px;
 	margin-left: 340px;
 }
-h2{
+
+h2 {
 	font-size: large;
 }
-.imgpresentation{
+
+.imgpresentation {
 	display: flex;
 	justify-content: center;
 }
+
 .presentation {
 	display: flex;
-	flex-wrap:wrap;
+	flex-wrap: wrap;
 	padding-top: 60px;
 	margin-left: 20px;
 	padding-left: 15px;
@@ -100,7 +106,7 @@ h2{
 }
 
 
-.image img{
+.image img {
 
 	width: 300px;
 	height: 300px;
