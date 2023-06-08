@@ -1,0 +1,87 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+
+section {
+	background-color: #FFF7D4;
+	width: 80%;
+	height: 500px;
+	margin: auto;
+}
+
+a {
+	text-decoration: none;
+	color: black;
+}
+
+h1 {
+	padding-top: 30px;
+	margin-left: 400px;
+	font-size: larger;
+}
+
+h2 {
+	font-size: large;
+	padding-top: 15px;
+	padding-bottom: 15px;
+	font-family: 'Times New Roman', Times, serif;
+	display: flex;
+
+}
+
+.competences {
+
+	display: flex;
+	justify-content: center;
+	margin-top: 50px;
+	height: 350px;
+
+}
+
+.operationnelles {
+	width: 40%;
+	display: flex;
+	padding-left: 15px;
+	background-color: white;
+	margin: 10px;
+	border-radius: 30px 30px;
+}
+
+.comportementales {
+	display: flex;
+	background-color: white;
+	margin: 10px;
+	padding-left: 15px;
+	border-radius: 30px 30px;
+
+}
+
+.tableau {
+	display: flex;
+	flex-direction: column;
+	background-color: white;
+	margin: 10px;
+	border-radius: 30px 30px;
+	/* border: thick solid ; */
+}
+
+table  {
+	padding: 15px;
+
+	
+}
+
+th {
+	padding: 10px;
+	
+}
+tr {
+	
+	background-color: #FFF7D4;
+	
+
+
+}

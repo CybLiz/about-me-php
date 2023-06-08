@@ -1,0 +1,65 @@
+
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+
+section{
+	width: 80%;
+	height: 500px;
+	margin: auto;
+	margin-top: 50px;
+	
+	background-color: #FFF7D4 ;
+    display: flex;
+}
+
+h1{
+	display: flex;
+	margin: auto;
+	margin-left: 600px;
+}
+h2{
+	display: flex;
+	justify-content: center;
+	padding-top: 15px;
+	padding-bottom: 15px;
+}
+.passions{
+	
+	/* margin:auto ;
+	margin-top: 100px; */
+	display: flex;
+	flex-direction: column;
+	
+}
+.pass {
+	display: flex;
+margin-left: 140px;
+}
+.passions img{
+
+width: 300px;
+height: 300px;
+}
+
+.voyage{
+	margin: 20px;
+}
+.pass p {
+	padding: 15px;
+	margin-left: 10px;
+}
+
+.patisserie{
+	margin: 20px;
+}
+
+.déco{
+	margin: 20px;
+}
+figcaption{
+	margin-left: 100px;
+}
