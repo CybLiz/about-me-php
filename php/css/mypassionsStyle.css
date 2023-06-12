@@ -1,25 +1,26 @@
 
 
-section{
+.mespassions{
 	width: 80%;
-	height: 500px;
 	margin: auto;
-	margin-top: 50px;
-	
+	margin-top: 10px;
 	background-color: #FFF7D4 ;
     display: flex;
 }
 
-h1{
+.mespassions h1{
 	display: flex;
 	margin: auto;
-	margin-left: 600px;
+	align-items: center;
+	margin-top: 10px;
+	font-size:large ;
 }
-h2{
+.mespassions h2{
 	display: flex;
 	justify-content: center;
 	padding-top: 15px;
 	padding-bottom: 15px;
+	font-size: medium;
 }
 .passions{
 	
@@ -31,7 +32,7 @@ h2{
 }
 .pass {
 	display: flex;
-margin-left: 140px;
+margin-left: 65px;
 }
 .passions img{
 
@@ -53,6 +54,7 @@ height: 300px;
 
 .déco{
 	margin: 20px;
+	margin-left: 10px;
 }
 figcaption{
 	margin-left: 100px;

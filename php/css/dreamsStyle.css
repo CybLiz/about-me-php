@@ -1,21 +1,22 @@
 
-section {
+.revesapprenant  {
 	background-color: #FFF7D4;
 	font-size: large;
 	display: flex;
 	flex-direction: column;
 	width: 60%;
-	height: 500px;
+	/* height: 400px; */
 	margin: auto;
 
 
 }
-h1 {
+.revesapprenant h1 {
 	padding-top: 30px;
-	margin-left: 380px;
-}
-h2{
+	text-align: center;
 	font-size: large;
+}
+.revesapprenant h2{
+	font-size: medium;
 	padding-top: 15px;
 	padding-bottom: 15px;
 }
@@ -23,7 +24,7 @@ h2{
 .objectifs {
 	display: flex;
 	justify-content: center;
-	margin-top: 50px;
+	margin-top: 30px;
 
 }
 
@@ -33,7 +34,8 @@ h2{
 	margin-left: 15px;
 	background-color: white;
 	border-radius: 30px;
-	padding-top: 60px;
+	padding-top: 50px;
+	margin-bottom: 20px;
 	padding-left: 30px;
 }
 
@@ -43,7 +45,8 @@ h2{
 	margin-left: 15px;
 	background-color: white;
 	border-radius: 30px;
-	padding-top: 60px;
+	padding-top: 50px;
+	margin-bottom: 20px;
 	padding-left: 30px;
 	
 }
@@ -55,7 +58,8 @@ h2{
 	margin-right: 15px;
 	background-color: white;
 	border-radius: 30px;
-	padding-top: 60px;
+	padding-top: 50px;
+	margin-bottom: 20px;
 	padding-left: 30px;
 
 }
